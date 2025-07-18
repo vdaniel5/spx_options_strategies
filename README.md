@@ -1,6 +1,6 @@
 # spx_options_strategies
 Built using GenAI tools. I'm exploring how AI pair programming can enhance productivity, creativity, and fast prototyping.
-
+This script requires a Tradier API key.
 This project analyzes SPX market conditions (bias, volatility, liquidity) and recommends high-quality options strategies like credit spreads or iron condors. It leverages:
 
 - Technical analysis (MACD, ADX, RSI)
